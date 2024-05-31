@@ -63,8 +63,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/https://twitter.com/mufarheen" target="_blank">
-<img src=https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000?&style=for-the-badge&logo=twitter&logoColor=white alt=X.com style="margin-bottom: 5px;" />
+<a href="https://x.com/https://twitter.com/mufarheen" target="_blank">
+<img style="margin-bottom: 5px;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X.com" />
 </a>
 <a href="https://github.com/https://github.com/M-Farheen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
