@@ -6,7 +6,7 @@
 ### <div align="center">I'm Farheen , a full-stack Data Scientist 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Projects  
   
 
 - 🌱 I’m currently learning Statistics and Machine learning  
